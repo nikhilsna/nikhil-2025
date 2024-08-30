@@ -1,7 +1,6 @@
 ---
-layout: search 
+layout: page
 title: Tools Setup
-search_exclude: true
-permalink: /search/
+permalink: /toolssetup/
 ---
-hi
+hi hgbjh
