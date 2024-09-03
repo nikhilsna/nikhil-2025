@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tools Setup
+title: Tools Setup Struggles
 permalink: /toolssetup/
 ---
 
