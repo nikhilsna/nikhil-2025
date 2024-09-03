@@ -1,4 +1,4 @@
-title: Getting into IPL cricket 
+title: Nighthawk Pages
 description: "Class of 2025"
 owner_name: John Mortensen
 github_username: nighthawkcoders
@@ -23,5 +23,5 @@ header_pages:
   - navigation/blog.md
   - navigation/search.md
   - navigation/about.md
-  - navigation/toolssetup.md
+  - navigation/tools.md
   - README4YML.md
