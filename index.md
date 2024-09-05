@@ -14,7 +14,7 @@ hide: true
 <button>some button text</button>
 <br>
 <div>
-<button>Virat Kohli</button>
+<h1><button>Virat Kohli</button></h1>
 <br>
 </div>
 <div>
