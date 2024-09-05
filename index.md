@@ -11,14 +11,14 @@ hide: true
 
 <p>Who is the highest all-time run scorer in ODI cricket??!</p>
 <br>
-<button>some button text</button>
+<h2><button>some button text</button></h1>
 <br>
 <div>
-<h1><button>Virat Kohli</button></h1>
+<h2><button>Virat Kohli</button></h2>
 <br>
 </div>
 <div>
-    <button>Vivian "Viv" Richards</button>
+    <h1><button>Vivian "Viv" Richards</button></h1>
     <br>
 
 </div>
