@@ -9,4 +9,4 @@ permalink: /about/
 I'm passionate about learning new things and finding creative ways to solve problems. 
 Whether it's coding, building, or just being curious, I'm always looking for ways to make a positive impact.</h2>
 <hr>
-<left><body><img src="{{site.baseurl}}/images/dance-happy.gif" alt="Mario GIF"></body></left><center>
+<center><left><body><img src="{{site.baseurl}}/images/dance-happy.gif" alt="Mario GIF"></body></left></center>
