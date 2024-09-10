@@ -9,7 +9,7 @@ hide: true
 <hr>
 <h2>Welcome to MY Nighthawk page!<h2>
 <hr>
-<h2><p>Who are the best players in cricket?</p></h2>
+<h2><p>Learn about my favorite cricket players!😁</p></h2>
 <br>
 <h2><button>some button text</button></h2>
 <br>
