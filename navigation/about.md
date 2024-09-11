@@ -15,7 +15,7 @@ Whether it's coding, building, or just being curious, I'm always looking for way
     <title>Simple JavaScript Alert</title>
 </head>
 <body>
-    <button onclick="alert('Hello!')">Click Me!</button>
+    <button onclick="alert('I KNEW YOU WOULD!')">DON'T Click Me!</button>
 </body>
 </html>
 <hr>
