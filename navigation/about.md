@@ -16,7 +16,7 @@ My hobbies include: Biking, Going to the gym,🏋 taking pictures with my camera
     <title>Simple JavaScript Alert</title>
 </head>
 <body>
-    <center><button onclick="alert('🍪🍪🍪🍪I KNEW YOU WOULD!🍪🍪🍪🍪')">DON'T Click Me For a Cookie!</button><cetner>
+    <center><button onclick="alert('🍪🍪🍪🍪I KNEW YOU WOULD!🍪🍪🍪🍪')">DON'T Click Me For a Cookie!</button><center>
 </body>
 </html>
 <hr>
