@@ -7,7 +7,8 @@ permalink: /about/
 
 <h2>Hi, I'm Nikhil! 🚀I'm a student who loves exploring technology and working on projects. 
 I'm passionate about learning new things and finding creative ways to solve problems. 
-Whether it's coding, building, or just being curious, I'm always looking for ways to make a positive impact.</h2>
+Whether it's coding, building, or just being curious, I'm always looking for ways to make a positive impact.
+My hobbies include: Biking, Going to the gym, </h2>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,7 +16,7 @@ Whether it's coding, building, or just being curious, I'm always looking for way
     <title>Simple JavaScript Alert</title>
 </head>
 <body>
-    <button onclick="alert('I KNEW YOU WOULD!')">DON'T Click Me!</button>
+    <button onclick="alert('🍪🍪🍪🍪I KNEW YOU WOULD!🍪🍪🍪🍪')">DON'T Click Me For a Cookie!</button>
 </body>
 </html>
 <hr>
