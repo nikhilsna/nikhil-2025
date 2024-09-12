@@ -20,3 +20,4 @@ My hobbies include: Biking, Going to the gym,🏋 taking pictures with my camera
 
 <hr>
 <center><left><body><img src="{{site.baseurl}}/images/dance-happy.gif" alt="Mario GIF"></body></left></center>
+<>
