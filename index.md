@@ -5,7 +5,7 @@ description: Home Page
 hide: true
 ---
 
-<h1>Nikhil Narayan<h1>
+<center><h1>Nikhil Narayan<h1></center>
 <hr>
 <h2>Welcome to MY Nighthawk page!<h2>
 <hr>
