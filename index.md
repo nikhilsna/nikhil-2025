@@ -32,7 +32,7 @@ hide: true
 <input type="number" id="guess" placeholder="Enter your guess">
 <button onclick="checkGuess()">Check</button>
 <p id="game-result"></p>
-
+---
 <script>
 var randomNumber = Math.floor(Math.random() * 10) + 1;
 function checkGuess() {
@@ -45,4 +45,4 @@ function checkGuess() {
 }
 </script>
 
----
+
