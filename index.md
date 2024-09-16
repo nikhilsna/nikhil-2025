@@ -4,6 +4,11 @@ title: Student Home
 description: Home Page
 hide: true
 ---
+<table>
+    <tr>
+        <td><img src="{{site.baseurl}}/images/gamingcontroller.jpg" height="60" title="Home"
+        alt=""></td>
+
 
 <center><h1>Nikhil Narayan<h1>
 <hr>
@@ -25,7 +30,3 @@ hide: true
 
 
 
-<table>
-    <tr>
-        <td><img src="{{site.baseurl}}/images/gamingcontroller.jpg" height="60" title="Home"
-        alt=""></td>
