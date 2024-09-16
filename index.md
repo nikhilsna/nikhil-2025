@@ -23,7 +23,7 @@ hide: true
 <div>
     <h2><button>Vivian "Viv" Richards</button></h2>
 
-    <br>
+    
 
 </div>
 
