@@ -46,3 +46,7 @@ function checkGuess() {
 </script>
 
 
+<table>
+    <tr>
+        <td><img src="{{site.baseurl}}/images/gamingcontroller.jpg" height="60" title="Home"
+        alt=""></td>
