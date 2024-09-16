@@ -21,7 +21,7 @@ hide: true
 </div>
 <a href ="https://www.espncricinfo.com/cricketers/viv-richards-52812">
 <div>
-    <h2><button>Vivian "Viv" Richards</button></h2>
+    <h2><button>Vivian "Viv" Richards</button></h2></a>
 
     
 
