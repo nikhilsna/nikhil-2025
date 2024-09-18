@@ -14,10 +14,10 @@ hide: true
 <hr>
 <h2>Welcome to MY Nighthawk page!<h2>
 <hr>
-<h2><p>Learn about IPL cricket!😁</p></h2>
+<h2><p>Learn about cricket!😁</p></h2>
 <br>
 <a href ="https://www.iplt20.com/">
-<h2><button>The "IPL"</button></h2>
+<h2><button>The "IPL" organization</button></h2>
 </a>
 <br>
 <div>
