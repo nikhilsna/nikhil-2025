@@ -9,6 +9,7 @@ permalink: /about/
 I'm passionate about learning new things and finding creative ways to solve problems. 
 Whether it's coding, building, or just being curious, I'm always looking for ways to make a positive impact.
 My hobbies include: Going to the gym,🏋 taking pictures with my camera,📷 and playing badminton🏸.</h2>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">

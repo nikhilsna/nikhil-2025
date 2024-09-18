@@ -16,7 +16,9 @@ hide: true
 <hr>
 <h2><p>Learn about my favorite cricket players!😁</p></h2>
 <br>
+<a href ="https://www.iplt20.com/">
 <h2><button>some button text</button></h2>
+</a>
 <br>
 <div>
 <a href ="https://www.espncricinfo.com/cricketers/virat-kohli-253802">
