@@ -1,7 +1,8 @@
 ---
-layout: page 
+layout: post 
 title: Calculator
 permalink: /calculator/
+toc: true
 ---
 
   <title>Calculator Project</title>
