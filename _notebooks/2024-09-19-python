@@ -1,0 +1,32 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "---\n",
+    "layout: post \n",
+    "title: Python Notebook\n",
+    "toc: true\n",
+    "---"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "from emoji import emojize \n",
+    "print(emojize(\":thumbs_up: Python is awesome, and I love Jupyter notebooks! :grinning_face:\"))"
+   ]
+  }
+ ],
+ "metadata": {
+  "language_info": {
+   "name": "python"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
