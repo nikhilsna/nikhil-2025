@@ -51,7 +51,6 @@ toc: true
       background-color: #ccc;
     }
   </style>
-</head>
 <body>
   <div class="calculator">
     <input type="text" id="display" disabled />
@@ -101,4 +100,3 @@ toc: true
     }
   </script>
 </body>
-</html>
