@@ -28,7 +28,7 @@ toc: true
 <body>
 
   <canvas id="gameCanvas" width="400" height="400"></canvas>
-<title><center>Use the arrow keys to move!</title>
+
   <script>
     const canvas = document.getElementById('gameCanvas');
     const ctx = canvas.getContext('2d');
