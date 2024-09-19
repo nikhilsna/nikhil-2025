@@ -12,6 +12,7 @@ hide: true
         <td><img src="{{site.baseurl}}/images/gamingcontroller.jpg" height="60" title="Home"
         alt=""></td>
         <td><a href="{{site.baseurl}}/calculator/">Calculator</a></td>
+        <td><a href="{{site.baseurl}}/cookieclicker/">Cookie Clicker</a></td>
 
 
 <center><h1>Nikhil Narayan<h1>
