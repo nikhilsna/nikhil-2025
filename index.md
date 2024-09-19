@@ -7,12 +7,12 @@ hide: true
 
 
 <table>
-    <tr>
+   <center> <tr>
         <td><img src="{{site.baseurl}}/images/gamingcontroller.jpg" height="60" title="Home"
         alt=""></td>
         <td><a href="{{site.baseurl}}/calculator/">Calculator</a></td>
         <td><a href="{{site.baseurl}}/cookieclicker/">Cookie Clicker</a></td>
-        <td><a href="{{site.baseurl}}/snakegame">Snake Game</a></td>
+        <td><a href="{{site.baseurl}}/snakegame">Snake Game</a></td></center>
 
 
 <center><h1>Nikhil Narayan<h1>
