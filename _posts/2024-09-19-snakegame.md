@@ -71,21 +71,20 @@ toc: true
         return;
       }
 
-      // Clear the canvas
       ctx.clearRect(0, 0, canvas.width, canvas.height);
 
       // Draw the snake
       for (let i = 0; i < snake.length; i++) {
-        ctx.fillStyle = i === 0 ? 'green' : 'darkgreen'; // Head is green, body is dark green
+        ctx.fillStyle = i === 0 ? 'green' : 'darkgreen'; 
         ctx.fillRect(snake[i].x, snake[i].y, boxSize, boxSize);
       }
 
-      // Draw the food
+      // apple
       ctx.fillStyle = 'red';
       ctx.fillRect(food.x, food.y, boxSize, boxSize);
     }
 
-    // Check if the snake collides with itself
+    // colliding code
     function snakeCollision(head) {
       for (let i = 1; i < snake.length; i++) {
         if (head.x === snake[i].x && head.y === snake[i].y) {
