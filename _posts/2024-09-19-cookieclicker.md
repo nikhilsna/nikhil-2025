@@ -36,8 +36,7 @@ toc: true
 </head>
 <body>
 
-  <h1>Cookie Clicker</h1>
-  <img id="cookie" src="https://i.imgur.com/NbKJkcz.png" alt="Cookie">
+  <img id="cookie" src="{{site.baseurl}}/images/cookie.avif" alt="Cookie">
   <div id="counter">Cookies: 0</div>
 
   <script>
