@@ -20,7 +20,7 @@ hide: true
         alt=""></td>
         <td><a href="{{site.baseurl}}/_notebooks/2024-09-19-problems.ipynb/">Unexpected problems notebook</a></td>
         <td><a href="{{site.baseurl}}/_notebooks/2024-09-19-python.ipynb/">Python Notebook</a></td>
-        <td><a href="{{site.baseurl}}/_notebooks/2024-09-19-javascript.ipynb/">Simeple Javsscript Notebook</a></td>
+        <td><a href="{{site.baseurl}}/_notebooks/2024-09-19-javascript.ipynb/">Simple Javsscript Notebook</a></td>
 
 
 <center><h1>Nikhil Narayan<h1>
