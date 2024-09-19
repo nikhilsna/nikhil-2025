@@ -42,7 +42,7 @@ toc: true
       padding: 20px;
       font-size: 18px;
       border: none;
-      background-color: #f1f1f1;
+      background-color: #6FC276;
       border-radius: 5px;
       cursor: pointer;
       transition: background-color 0.3s ease;
