@@ -24,7 +24,7 @@ header_pages:
   - navigation/calculator.md
   - navigation/cookieclicker.md
   - navigation/snakegame.md
-  - _notebooks/2024-09-19-problems
-  - _notebooks/2024-09-19-python
-  - _notebooks/2024-09-19-javascript
+  - _notebooks/problems
+  - _notebooks/python
+  - _notebooks/javascript
   - README4YML.md
