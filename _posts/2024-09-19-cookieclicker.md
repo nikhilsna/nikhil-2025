@@ -36,7 +36,7 @@ toc: true
 </head>
 <body>
 
-  <img id="cookie" src="{{site.baseurl}}/images/cookie.avif" alt="Cookie">
+  <img id="cookie" src="{{site.baseurl}}/images/cookie.png" alt="Cookie">
   <div id="counter">Cookies: 0</div>
 
   <script>
