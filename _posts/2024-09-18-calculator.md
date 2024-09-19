@@ -5,7 +5,7 @@ permalink: /calculator/
 toc: true
 ---
 
-  <title>Calculator Project</title>
+  <center><title>Calculator Project</title></center>
   <style>
     body {
       font-family: Arial, sans-serif;
