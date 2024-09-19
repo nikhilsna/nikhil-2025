@@ -17,7 +17,7 @@ My hobbies include: Going to the gym,🏋 taking pictures with my camera,📷 an
     <title>Simple JavaScript Alert</title>
 </head>
 <body>
-    <center><button onclick="alert('🍪🍪🍪🍪I KNEW YOU WOULD!🍪🍪🍪🍪')">DON'T Click Me For a Cookie!</button><center>
+    <center><button onclick="alert('🍪🍪🍪I KNEW YOU WOULD!🍪🍪🍪')">DON'T Click Me For a Cookie!</button><center>
 
 <hr>
 <center><left><body><img src="{{site.baseurl}}/images/dance-happy.gif" alt="Mario GIF"></body></left></center>
