@@ -16,11 +16,11 @@ hide: true
 
 <table>
     <tr>
-        <td><img src="{{site.baseurl}}/images/jupyterlogo" height="60" title="Home"
+        <td><img src="{{site.baseurl}}/images/jupyterlogo.png" height="60" title="Home"
         alt=""></td>
-        <td><a href="{{site.baseurl}}/_notebooks/2024-09-19-problems.ipynb/">Unexpected problems notebook</a></td>
-        <td><a href="{{site.baseurl}}/_notebooks/2024-09-19-python.ipynb/">Python Notebook</a></td>
-        <td><a href="{{site.baseurl}}/_notebooks/2024-09-19-javascript.ipynb/">Simple Javascript Notebook</a></td>
+        <td><a href="{{site.baseurl}}/problems/">Unexpected problems notebook</a></td>
+        <td><a href="{{site.baseurl}}/python/">Python Notebook</a></td>
+        <td><a href="{{site.baseurl}}/javascript/">Simple Javascript Notebook</a></td>
 
 
 <center><h1>Nikhil Narayan<h1>
