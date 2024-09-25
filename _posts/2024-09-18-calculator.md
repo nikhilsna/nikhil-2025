@@ -5,9 +5,8 @@ permalink: /calculator/
 toc: true
 comment: true
 ---
-
 <script src="https://utteranc.es/client.js"
-        repo="nikhil-2025"
+        repo="nikhilsna/nikhil-2025"
         issue-term="pathname"
         theme="github-dark"
         crossorigin="anonymous"
