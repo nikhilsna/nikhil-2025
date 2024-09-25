@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Calculator
-permalink: /calculator/
+permalink: /calculator
 toc: true
 comment:true
 ---
