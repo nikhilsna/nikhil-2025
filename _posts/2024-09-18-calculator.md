@@ -6,13 +6,6 @@ toc: true
 comment:true
 ---
 
-<script src="https://utteranc.es/client.js"
-        repo="nikhilsna/nikhil-2025"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
 
   <center><title>Calculator Project</title></center>
   <style>
