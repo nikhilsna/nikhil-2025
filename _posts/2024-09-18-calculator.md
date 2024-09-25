@@ -7,7 +7,7 @@ comment: true
 ---
 
 <script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
+        repo="nikhil-2025"
         issue-term="pathname"
         theme="github-dark"
         crossorigin="anonymous"
