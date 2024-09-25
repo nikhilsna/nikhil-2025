@@ -3,6 +3,7 @@ layout: post
 title: Calculator
 permalink: /calculator/
 toc: true
+comment:true
 ---
 
   <center><title>Calculator Project</title></center>
