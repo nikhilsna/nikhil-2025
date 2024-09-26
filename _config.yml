@@ -24,7 +24,7 @@ header_pages:
   - navigation/calculator.md
   - navigation/cookieclicker.md
   - navigation/snakegame.md
-  - _notebooks/problems
+  - _notebooks/problems.ipynb
   - _notebooks/python
   - _notebooks/javascript
   - _notebooks/itloop
