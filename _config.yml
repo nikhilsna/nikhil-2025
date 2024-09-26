@@ -27,6 +27,7 @@ header_pages:
   - _notebooks/problems
   - _notebooks/python
   - _notebooks/javascript
-  - _notebooks/fruitloop
+  - _notebooks/itloop
   - -notebooks/whileloop
+  -_notebooks/listdict
   - README4YML.md
