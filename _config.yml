@@ -24,10 +24,10 @@ header_pages:
   - navigation/calculator.md
   - navigation/cookieclicker.md
   - navigation/snakegame.md
-  - _notebooks/problems.ipynb
+  - _notebooks/problems
   - _notebooks/python
   - _notebooks/javascript
   - _notebooks/itloop
-  - -notebooks/whileloop
-  -_notebooks/listdict
+  - _notebooks/whileloop
+  - _notebooks/listdict
   - README4YML.md
