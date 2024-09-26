@@ -28,4 +28,5 @@ header_pages:
   - _notebooks/python
   - _notebooks/javascript
   - _notebooks/fruitloop
+  - -notebooks/whileloop
   - README4YML.md
