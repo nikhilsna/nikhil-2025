@@ -21,6 +21,8 @@ hide: true
         <td><a href="{{site.baseurl}}/problems/">Unexpected problems notebook</a></td>
         <td><a href="{{site.baseurl}}/python/">Python Notebook</a></td>
         <td><a href="{{site.baseurl}}/javascript/">Simple Javascript Notebook</a></td>
+        <td><a href="{{site.baseurl}}/pyhack/">Python Hack Group 3.1</a></td>
+        <td><a href="{{site.baseurl}}/jshack/">JS Hack Group 3.1</a></td>
 
 
 <center><h1>Nikhil Narayan<h1>
