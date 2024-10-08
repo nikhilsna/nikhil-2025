@@ -30,4 +30,5 @@ header_pages:
   - _notebooks/itloop
   - _notebooks/whileloop
   - _notebooks/listdict
+  - _notebooks/pyhack
   - README4YML.md
