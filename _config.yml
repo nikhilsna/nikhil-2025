@@ -31,4 +31,9 @@ header_pages:
   - _notebooks/whileloop
   - _notebooks/listdict
   - _notebooks/pyhack
+  - _notebooks/jshack3.7
+  - _notebooks/pyhack3.7
+  - _notebooks/pyhack3.2
+  - _notebooks/pyhack3.5
+  - _notebooks/pyhack3.3
   - README4YML.md
