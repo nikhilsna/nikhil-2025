@@ -23,6 +23,14 @@ hide: true
         <td><a href="{{site.baseurl}}/javascript/">Simple Javascript Notebook</a></td>
         <td><a href="{{site.baseurl}}/pyhack/">Python Hack Group 3.1.2</a></td>
         <td><a href="{{site.baseurl}}/jshack/">JS Hack Group 3.1.4</a></td>
+<table>
+    <tr>
+        <td><img src="{{site.baseurl}}/images/Sprint2.png" height="60" title="Home"
+        alt=""></td>
+        <td><a href="{{site.baseurl}}/https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/3-8-6/">3.8.6 Iterating over a created list</a></td>
+        <td><a href="{{site.baseurl}}/https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/3-8-7/">3.8.7 Printing a message after iterating over a list</a></td>
+        <td><a href="{{site.baseurl}}/https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p3/3-8-8/">3.8.8 Breaking loops by checking for conditions</a></td>
+       
 
 
 <center><h1>Nikhil Narayan<h1>
