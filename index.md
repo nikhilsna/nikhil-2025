@@ -16,7 +16,7 @@ hide: true
 
 <table>
     <tr>
-        <td><img src="{{site.baseurl}}/images/jupyterlogo.png" height="60" title="Home"
+        <td><img src="{{site.baseurl}}/images/jupyterlogo.png" height="80" title="Home"
         alt=""></td>
         <td><a href="{{site.baseurl}}/problems/">Unexpected problems notebook</a></td>
         <td><a href="{{site.baseurl}}/python/">Python Notebook</a></td>
