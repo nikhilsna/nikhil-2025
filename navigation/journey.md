@@ -6,9 +6,11 @@ permalink: /toolssetup/
 
 Sprint 2 Journey & Reflection:
 
-This sprint really helped me get a better grip on the bigger concepts and feel ready for things like the Create Task and project-based learning. By focusing on iteration and for loops, I was able to apply what I learned in ways that will definitely come in handy for future projects. I took some time to organize everything I’ve worked on, which gave me a clearer picture of how these ideas fit together. A moment that really stuck with me, and I hope shows how much effort I’ve put in, was when I tackled the more challenging parts of Lesson 3.8 on my own. I didn’t rely on outside help this time, and that felt like a big win for me. It was one of those times where I felt like I was really proving what I knew.
-What hit me the most was learning how to use loops and conditions with lists in a smarter way. I didn’t realize how powerful those tools could be until I worked through the lessons, and that changed how I think about solving problems.
-This sprint gave me personal growth. I now have more confidence in my coding skills, especially when it comes to using loops and lists, and I know I’ll be able to build on that for the challenges ahead.
+Hi, I'm Nikhil, and my reflection about CSP has overall been positive. When I came into this classroom, I felt confident in my Python skills, however not so confident in my skills interacting with a text-based operating system such as Linux. However, I ended up learning much more than I would've thought, such as web development, specifically my own lesson 3.8 iteration. I strongly believe that teaching is twice of understanding, which helped me understand the fundamentals which skyrocketed my overall understanding as well as learning new things like HTML/CSS, working in a SCRUM group and using Github and VsCode.
+
+This sprint really helped me prepare for the Create Task and project-based learning in CSP. Focusing on Lesson 3.8, specifically iteration, for loops, and lists, gave me a chance to improve where I needed it most. I have a personal coding background, and while I thought I understood these concepts, diving deeper showed me how much more there is to learn. Teaching these ideas to others made me realize that explaining something is twice the understanding. It really forced me to think through the fundamentals that I might’ve skimmed over before.
+
+Big Idea 3, which covers algorithms and programming, is something the College Board will be testing me on. These lessons pushed me to get comfortable with the kind of iteration and conditional logic I’ll need for both the exam and my own projects. Working through these exercises and then teaching them helped reinforce what I was learning in a way that just studying alone couldn’t. I feel like this approach really solidified the core concepts and gave me a better understanding of how to apply them.
 
 Reflection:
 
