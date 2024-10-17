@@ -6,9 +6,14 @@ permalink: /toolssetup/
 
 Sprint 2 Journey & Reflection:
 
-Hi, I'm Nikhil, and my experience about CSP has overall been positive. When I came into this classroom, I felt confident in my Python skills, however not so confident in my skills interacting with Linux. However, I ended up learning much more than I would've thought,  specifically from my own taught lesson 3.8 iteration with lists. An example of code which I made for my lesson was looping through an index with conditionals. I strongly believe that teaching is twice of understanding, which helped me understand the fundamentals which improved my overall understanding as well as learning new things like HTML/CSS, working in a SCRUM group and using Github and VsCode, all of which taught me to work more efficiently. 
+Hi, I’m Nikhil, and honestly, CSP has been a pretty great experience so far. **For the Blog and Big Ideas**, I came into the class feeling confident with Python, coming from a software Dad, but teaching my group's Lesson 3.8 on iteration, especially with conditionals and lists took my understanding even deeper. Explaining how loops and conditionals work helped make the topic way clearer in my mind, teaching is twice understanding. Teaching it really tied into the big ideas we’re covering and my prep for the AP exam—especially with recursion and iteration, which are key for the Create Task and project-based learning (PBL).
 
-This sprint really helped me prepare for the Create Task and project-based learning in CSP, as well as he college board exam. Focusing on Lesson 3.8, specifically iteration, for loops, and lists, gave me a chance to improve where I needed it most. I have a personal coding background, and while I thought I understood these concepts, diving deeper showed me how much more there is to learn, and how valuable learning the basics are which is the msot memorable learnign experience from big Idea 3 for me, which allows me to understand basic tools like lists far better. Understanding the fundamentals instead of skimming them was my most memorable experience from Sprint 2. The most interesting lesson by far was Trevors group, specifically covering the Fibonacci sequence which mentioned our topic of recursion to solve real problems.
+**A standout memory** from this sprint was finally getting the hang of Git commands. Working in a SCRUM group and dealing with merge conflicts in GitHub was tough at first, but once I figured it out, it felt like a huge achievement.
+
+**When it comes to Relevancy**, going over the basics like for-loops and conditionals during my lesson made me realize how important those fundamentals really are. A cool moment was when Trevor’s group covered the Fibonacci sequence—learning about recursion and problem-solving there tied directly to what College Board will test us on.
+
+**Beyond Perfunctory**, this sprint really pushed me. I got better at technical stuff like HTML/CSS and GitHub, but teaching others helped me understand basics on a deeper level. Overall, this sprint felt positive, because I pulled all of my understanding together and built a much stronger understanding of the material.
+
 
 
 
