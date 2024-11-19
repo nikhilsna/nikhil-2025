@@ -4,6 +4,8 @@ title: Blogs
 search_exclude: true
 permalink: /blogs/
 ---
+Sprint 3 reflection:
+**In Sprint 3**, I learned a ton while building the **mini assistant feature**, especially about using **JavaScript** to create interactive and dynamic elements. Making it **draggable** and cycling through responses was a fun challenge that taught me more about **DOM manipulation** and **event handling**. I also focused on improving the design with **cool hover effects** and **smooth transitions**, which made the assistant look more polished. Overall, it was a great mix of **coding and creativity**, and I’m proud of what I built!
 
 Blogs For MCQ wrong questions:
 
