@@ -6,7 +6,7 @@ permalink: /toolssetup/
 
 Sprint 2 Journey & Reflection:
 
-Hi, I’m Nikhil, and honestly, CSP has been a pretty great experience so far. **For the Blog and Big Ideas**, I came into the class feeling confident with Python, coming from a software Dad, but teaching my group's Lesson 3.8 on iteration, especially with conditionals and lists took my understanding even deeper. Explaining how loops and conditionals work helped make the topic way clearer in my mind, teaching is twice understanding. Teaching it really tied into the big ideas we’re covering and my prep for the AP exam—especially with recursion and iteration, which are key for the Create Task and project-based learning (PBL).
+Hi, I’m Nikhil, and honestly, CSP has been a pretty great experience so far. **For the Blog and Big Ideas**, I came into the class feeling confident with Python, coming from a software Dad, but teaching my group's Lesson 3.8 on iteration, specifically with conditionals and lists took my understanding even deeper. Explaining how loops and conditionals work helped make the topic way clearer in my mind, teaching is twice understanding. Teaching it really tied into the big ideas we’re covering and my prep for the AP exam—especially with recursion and iteration, which are key for the Create Task and project-based learning (PBL).
 
 **A standout memory** from this sprint was finally getting the hang of Git commands. Working in a SCRUM group and dealing with merge conflicts in GitHub was tough at first, but once I figured it out, it felt like a huge achievement.
 
