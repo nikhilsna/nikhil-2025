@@ -76,41 +76,73 @@ Blogs For MCQ wrong questions:
 21. **Q66**:  
     I chose **A**, but the explanation clarified that the list `[10, 20, 30, 40]` doesn't cause the procedure to fail because there are no values less than the first number, so the smallest value is correctly returned. The correct answers are **C** and **D**, as these lists reveal the flaw in the logic when a smaller value appears later in the list.
 
-    Here’s my reflection:
+Here’s a more in-depth reflection addressing the poor grade and how I plan to improve:
 
 ---
 
 ## **Where I Went Wrong**
 
 ### ⏱ **Timing Issues**  
-I rushed through questions that needed more thought:  
-- **Q10**: I didn’t carefully track how `xPos` updates in the loop, so I chose **A** instead of **B**.  
-- **Q28**: I underestimated the bits needed for 200 characters, missing that \(2^8 = 256\). **D** was the right answer.  
+I rushed through questions that required careful thought and didn’t double-check my work:  
+- **Q10**: I didn’t properly track how `xPos` updates in the loop and picked **A**. The correct answer, **B**, adjusts `xPos` while keeping `yPos` constant. I need to slow down when working with positional updates in code.  
+- **Q28**: I underestimated the number of bits needed to represent 200 characters, incorrectly choosing **B**. I ignored the formula \(2^n\), where \(n = 8\), meaning 8 bits (\(2^8 = 256\)) are required. The correct answer was **D**.  
+
+To fix this: I’ll allocate more time per question and practice breaking down numerical and logical problems step by step.
 
 ---
 
 ### 🔄 **Control Flow Struggles**  
-I got tripped up by loops and conditions:  
-- **Q26**: I didn’t see how **C** ensured the robot moved correctly toward the gray square.  
-- **Q31**: I thought only Program I worked, but I missed that Program II’s loop handled the grid logic just as well.  
+I struggled to follow how conditions and loops interact, leading to several incorrect answers:  
+- **Q26**: I misunderstood how the robot’s movement logic worked. I picked **B**, but **C** was correct because it properly ensures the robot moves toward the gray square. I didn’t analyze the condition step by step.  
+- **Q31**: I assumed only Program I worked, but I missed how Program II’s loop correctly handled grid movement logic. I picked **A**, but **C** was the right answer.  
+
+To fix this: I’ll practice reading and simulating code execution line by line, especially for loops and conditions, to fully understand how they behave.
 
 ---
 
 ### 📊 **Data and Logic Misinterpretations**  
-I made bad assumptions instead of analyzing more carefully and taking my time:  
-- **Q3**: I thought citizen science meant one location. I missed that it’s about distributed data, so **C** was correct.  
-- **Q13**: I ignored how message frequency increased after the app launch, making **D** the right answer.  
-- **Q62**: I forgot online encyclopedias constantly change, so I missed **C** and **D**.  
+I made poor assumptions instead of analyzing the data and logic more carefully:  
+- **Q3**: I thought citizen science involved one location, so I picked **A**. I missed that it’s about distributed data collection across multiple locations, making **C** correct.  
+- **Q13**: I didn’t notice the increase in message frequency after the app launch, which pointed to **D**. I relied on assumptions rather than looking closely at the trend.  
+- **Q62**: I incorrectly assumed online encyclopedias are static, choosing **B**. I forgot they’re editable and dynamic, making **C** and **D** correct.  
 
-I also missed details in technical logic:  
-- **Q45**: I messed up representing a NAND gate. **C** was correct.  
-- **Q66**: I failed to consider edge cases like `[5, 10, 3, 8]`, which broke the logic.  
+I also struggled with technical logic:  
+- **Q45**: I misrepresented the NAND gate, picking **A** instead of **C**, which accurately models its behavior.  
+- **Q66**: I ignored edge cases like lists with smaller values later (e.g., `[5, 10, 3, 8]`), which exposed the flaw in my understanding of the logic.
+
+To fix this:  
+1. I’ll **read questions slowly and carefully**, underlining key details like conditions, trends, and keywords.  
+2. I’ll **practice edge case scenarios** in coding problems to build better habits for testing logic.
+
+---
+
+### ✏️ **Specific Issues by Question**  
+Here’s a breakdown of my major mistakes:  
+1. Made a silly error on **control flow**: **Q26, Q31**  
+2. Overlooked **data patterns or trends**: **Q3, Q13**  
+3. Miscalculated technical problems: **Q28, Q45, Q66**
+
+
+## **How I Will Improve**
+
+### 🕒 **1. Time Management**
+- **Plan**: Spend at least 30-40 seconds reading each question before answering.  
+- **Fix**: Practice time management, and analyze key terms first.  
+
+### 🔄 **2. Control Flow Practice**
+- **Plan**: Work through 3-5 coding problems daily, focusing on loops and conditions.  
+- **Fix**: Write out the steps for each problem to simulate how code executes, especially edge cases.  
+
+### 📊 **3. Analyzing Data and Logic**
+- **Plan**: Solve data interpretation problems with graphs, tables, and patterns.  
+- **Fix**: Highlight key words like “increase,” “distribution,” or “trend” to slow myself down and focus.  
+
+### 🛠 **4. Technical Practice**
+- **Plan**: Use coding platforms like LeetCode or Codecademy to practice topics like logic gates, bit manipulation, and pseudo-code analysis.  
+- **Fix**: Review each mistake thoroughly, especially those involving technical logic.  
 
 ---
 
-## **How I will Improve!**  
-- **Slow down** and double-check my work, especially for logic-based and data questions.  
-- **Practice control flow** by following loops/conditions step by step.  
-- **Analyze trends** instead of relying on intuition.  
+### **Goal**  
+With these steps, I’ll improve my problem-solving skills and aim for at least a **60/66** on my next test by focusing on **timing**, **control flow**, and **data analysis**. This way, I can address my weaknesses and learn to approach these problems more systematically.  
 
----
