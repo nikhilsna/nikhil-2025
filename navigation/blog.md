@@ -117,7 +117,7 @@ To fix this:
 ---
 
 ### ✏️ **Specific Issues by Question**  
-Here’s a breakdown of my major mistakes:  
+A breakdown of my major mistakes:  
 1. Made a silly error on **control flow**: **Q26, Q31**  
 2. Overlooked **data patterns or trends**: **Q3, Q13**  
 3. Miscalculated technical problems: **Q28, Q45, Q66**
@@ -125,24 +125,87 @@ Here’s a breakdown of my major mistakes:
 
 ## **How I Will Improve**
 
-### 🕒 **1. Time Management**
-- **Plan**: Spend at least 30-40 seconds reading each question before answering.  
-- **Fix**: Practice time management, and analyze key terms first.  
 
-### 🔄 **2. Control Flow Practice**
-- **Plan**: Work through 3-5 coding problems daily, focusing on loops and conditions.  
-- **Fix**: Write out the steps for each problem to simulate how code executes, especially edge cases.  
+## **Where I Went Wrong**
 
-### 📊 **3. Analyzing Data and Logic**
-- **Plan**: Solve data interpretation problems with graphs, tables, and patterns.  
-- **Fix**: Highlight key words like “increase,” “distribution,” or “trend” to slow myself down and focus.  
+### 🟡 **Boolean Expressions (33%)**
+- **Performance**: This was my weakest area, scoring only **33%**. I struggled with understanding how logical operators like **AND**, **OR**, and **NOT** interact, and I failed to account for edge cases in problems with nested Boolean conditions.  
+- **Example Mistakes**:  
+  - **Q33**: I misunderstood how the OR operator worked and incorrectly assumed both conditions needed to be true. The correct answer only required one condition to evaluate as true.  
+  - **Q66**: I ignored test cases where smaller values appeared later in the list (e.g., `[5, 10, 3, 8]`), exposing flaws in the logic.  
 
-### 🛠 **4. Technical Practice**
-- **Plan**: Use coding platforms like LeetCode or Codecademy to practice topics like logic gates, bit manipulation, and pseudo-code analysis.  
-- **Fix**: Review each mistake thoroughly, especially those involving technical logic.  
+#### **Solutions**:  
+1. **Truth Tables**: I’ll practice creating truth tables for Boolean expressions to visualize the behavior of **AND**, **OR**, and **NOT** under all combinations.  
+2. **Simulate Step-by-Step**: I'll manually walk through Boolean expressions, evaluating them line by line with test cases to catch logic errors.  
+3. **Daily Practice**: Dedicate 10 minutes every day to solving Boolean problems on platforms like Codecademy or Khan Academy.  
+
+
+
+### 🟢 **Developing Procedures (80%)**  
+- **Performance**: This was a strong area for me, but there’s still room to improve.  
+- **Example Mistakes**:  
+  - I sometimes skipped analyzing how procedures interact with variables, leading to confusion when multiple procedures were chained.  
+
+#### **Solutions**:  
+1. **Annotate Each Step**: When reviewing problems, I’ll write out what each procedure does and how it manipulates inputs/outputs.  
+2. **Focus on Edge Cases**: I’ll practice writing pseudocode for complex procedures and testing them with unexpected inputs.  
+
+
+
+### 🟡 **Conditionals and Nested Conditionals (50%)**  
+- **Performance**: I struggled to fully grasp how nested conditionals execute, leading to confusion when solving multi-layered logic problems.  
+- **Example Mistakes**:  
+  - In **Q26**, I misread how conditions interacted, failing to see how they controlled the robot’s movement.  
+  - In **Q31**, I didn’t correctly analyze how nested conditions worked in the program’s loop logic.  
+
+#### **Solutions**:  
+1. **Decompose Nested Conditions**: Break down each condition into simpler steps to see how they evaluate individually.  
+2. **Simulate Code Execution**: Use flowcharts to visualize how the program flows through nested conditions.  
+3. **Practice**: Solve 5-10 problems weekly focusing on multi-layered conditional logic.
 
 ---
 
-### **Goal**  
-With these steps, I’ll improve my problem-solving skills and aim for at least a **60/66** on my next test by focusing on **timing**, **control flow**, and **data analysis**. This way, I can address my weaknesses and learn to approach these problems more systematically.  
+### 🟡 **Binary Numbers (50%)**  
+- **Performance**: I performed okay but need more confidence when working with binary-to-decimal conversions and bit manipulation.  
+- **Example Mistakes**:  
+  - In **Q28**, I underestimated the bits needed to represent 200 characters, failing to calculate \(2^8 = 256\).  
 
+#### **Solutions**:  
+1. **Memorize Formulas**: Practice powers of 2 and binary representations to build automaticity.  
+2. **Work on Binary Problems**: Solve problems that involve conversions between binary and decimal, focusing on encoding data.  
+
+---
+
+### 🟡 **Data and Logic Misinterpretations (General)**  
+- **Performance**: While I understood some concepts, I often made assumptions instead of analyzing the data or logic carefully.  
+- **Example Mistakes**:  
+  - **Q3**: I didn’t grasp that citizen science relies on distributed data collection, missing the core concept.  
+  - **Q13**: I ignored trends in the data, failing to see that message frequency increased after the app launch.  
+
+#### **Solutions**:  
+1. **Slow Down**: Allocate at least 30-40 seconds to analyze graphs, tables, or data trends.  
+2. **Annotate Data**: Highlight key trends or unusual values when interpreting data-based questions.  
+3. **Practice Analysis**: Work on problems requiring data interpretation, using resources like College Board AP CSP practice.
+
+---
+
+### 🔴 **Random Values and Simulations (0%)**
+- **Performance**: I didn’t answer these correctly, which shows a major gap in understanding randomness and its applications.  
+- **Example Mistakes**:  
+  - I misunderstood how simulations model real-world scenarios using random values.  
+
+#### **Solutions**:  
+1. **Review Concepts**: Study how random values are generated and used in simulations.  
+2. **Practice Modeling**: Solve problems that involve simulations, focusing on how randomness impacts results.  
+3. **Apply It**: Write simple Python programs that use random functions to simulate scenarios (e.g., dice rolls, coin flips).
+
+---
+
+## **Action Plan**
+
+1. **Daily Practice**: Dedicate 20 minutes daily to working on weak areas, especially Boolean expressions, conditionals, and binary numbers.  
+2. **Use Resources**: Practice on Khan Academy, Codecademy, and College Board for AP CSP topics.  
+3. **Track Progress**: Use similar diagnostic tests to monitor improvement every two weeks.  
+4. **Ask for Help**: Reach out to my teacher or classmates for clarity on concepts I’m stuck on.  
+
+By following this plan, I am going to improve my understanding and raise my score to at least **60/66** on the next test.  
