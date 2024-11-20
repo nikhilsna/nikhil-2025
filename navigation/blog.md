@@ -199,13 +199,3 @@ A breakdown of my major mistakes:
 2. **Practice Modeling**: Solve problems that involve simulations, focusing on how randomness impacts results.  
 3. **Apply It**: Write simple Python programs that use random functions to simulate scenarios (e.g., dice rolls, coin flips).
 
----
-
-## **Action Plan**
-
-1. **Daily Practice**: Dedicate 20 minutes daily to working on weak areas, especially Boolean expressions, conditionals, and binary numbers.  
-2. **Use Resources**: Practice on Khan Academy, Codecademy, and College Board for AP CSP topics.  
-3. **Track Progress**: Use similar diagnostic tests to monitor improvement every two weeks.  
-4. **Ask for Help**: Reach out to my teacher or classmates for clarity on concepts I’m stuck on.  
-
-By following this plan, I am going to improve my understanding and raise my score to at least **60/66** on the next test.  
