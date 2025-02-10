@@ -394,7 +394,7 @@ def put(self):
 
 - **Sequencing**: Steps are performed in a specific order to ensure proper execution.
 
-- **Selection**: Conditional statements check if optional fields are provided before updating.
+- **Selection**: Conditional statements check if there are any chess games on hand to be processed.
 
 - **Iteration**: Iterating over each game in the list of chess games.
 
