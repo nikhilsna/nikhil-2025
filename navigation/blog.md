@@ -369,6 +369,25 @@ def put(self):
 
     except Exception as e:
         return {"message": f"Unexpected error: {str(e)}"}, 500
+
+
+    def get(self):
+      """Retrieve all game logs."""
+      # **Sequencing**: Steps are performed in order.
+      games = pastGame.query.all()  # Step 1: Retrieve all game records from the database.
+      json_ready = []               # Step 2: Initialize an empty list to hold the serialized game data.
+
+      # **Selection**: Check if there are any games to process.
+      if not games:
+          return jsonify({"message": "No game logs found"}), 404  # Conditional execution based on a condition.
+
+      # **Iteration**: Iterate over each game in the list of games.
+      for game in games:
+          game_data = game.read()       # **Call to student-developed method**: Serialize the game object.
+          json_ready.append(game_data)  # Add the serialized data to the list.
+
+      return jsonify(json_ready)  # Step 4: Return the JSON response to the client.
+
 ```
 
 **Explanation:**
@@ -377,7 +396,7 @@ def put(self):
 
 - **Selection**: Conditional statements check if optional fields are provided before updating.
 
-- **Iteration**: While not explicitly shown here, iteration could be used if processing multiple records.
+- **Iteration**: Iterating over each game in the list of chess games.
 
 ---
 
