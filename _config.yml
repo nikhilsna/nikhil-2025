@@ -38,4 +38,7 @@ header_pages:
   - _notebooks/pophack3.10
   - _notebooks/hack3.10
   - _notebooks/jssprites
+  - _notebooks/mcblog
+  - _notebooks/pprblog
+  - _notebooks/fretroblog
   - README4YML.md
