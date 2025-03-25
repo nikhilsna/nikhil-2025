@@ -42,4 +42,5 @@ header_pages:
   - _notebooks/pprblog
   - _notebooks/fretroblog
   - _notebooks/BHfx
+  - _notebooks/crdsrc
   - README4YML.md
