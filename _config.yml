@@ -43,4 +43,6 @@ header_pages:
   - _notebooks/fretroblog
   - _notebooks/BHfx
   - _notebooks/crdsrc
+  - _notebooks/sfcmtng/
+  - _notebooks/pasprj/
   - README4YML.md
