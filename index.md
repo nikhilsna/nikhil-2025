@@ -6,8 +6,6 @@ hide: true
 ---
 
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&display=swap');
-
   body {
     background-color: #1e1e2e;
     color: #f8f8f2;
@@ -30,9 +28,6 @@ hide: true
     border-bottom: 1px solid rgba(189,147,249,0.3);
     position: relative;
     overflow: hidden;
-    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200"><filter id="noise"><feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch"/><feColorMatrix type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.5 0"/></filter><rect width="100%" height="100%" filter="url(%23noise)"/></svg>'),
-      linear-gradient(180deg, rgba(45,45,58,0.7) 0%, rgba(30,30,46,0.5) 100%);
-    background-blend-mode: overlay;
   }
   .header::before {
     content: '';
@@ -48,94 +43,23 @@ hide: true
     0% { transform: translateX(-100%); }
     100% { transform: translateX(100%); }
   }
-  .name-container {
-    position: relative;
-    margin-bottom: 1.5rem;
-  }
   h1 {
-    font-family: 'Cinzel', Georgia, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 4.5rem;
     margin-bottom: 0.5rem;
     color: #bd93f9;
-    font-weight: 700;
-    text-shadow: 
-      0 0 5px rgba(189,147,249,0.5),
-      0 0 15px rgba(189,147,249,0.3);
-    letter-spacing: 0.1em;
-    position: relative;
-    display: inline-block;
-    padding: 0.5rem 2rem;
-    text-transform: uppercase;
-  }
-  h1::before, h1::after {
-    content: '';
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><filter id="roughpaper"><feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="5"/><feDisplacementMap in="SourceGraphic" scale="10" /></filter><rect width="100%" height="100%" filter="url(%23roughpaper)" fill="none"/></svg>');
-    top: 0;
-    left: 0;
-    opacity: 0.2;
-    mix-blend-mode: overlay;
-    pointer-events: none;
-  }
-  .elder-border {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: calc(100% + 40px);
-    height: calc(100% + 20px);
-    background: none;
-    border: 3px solid;
-    border-image: linear-gradient(135deg, 
-      rgba(189,147,249,0) 0%, 
-      rgba(189,147,249,0.7) 25%, 
-      rgba(189,147,249,0.9) 50%, 
-      rgba(189,147,249,0.7) 75%, 
-      rgba(189,147,249,0) 100%) 1;
-    z-index: -1;
-    filter: drop-shadow(0 0 5px rgba(189,147,249,0.3));
-  }
-  .elder-border::before, .elder-border::after {
-    content: '';
-    position: absolute;
-    width: 30px;
-    height: 30px;
-    background-size: contain;
-    background-repeat: no-repeat;
-  }
-  .elder-border::before {
-    top: -15px;
-    left: -15px;
-    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M15,0 L30,15 L15,30 L0,15 Z" fill="%23bd93f9" opacity="0.7"/></svg>');
-  }
-  .elder-border::after {
-    bottom: -15px;
-    right: -15px;
-    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path d="M15,0 L30,15 L15,30 L0,15 Z" fill="%23bd93f9" opacity="0.7"/></svg>');
+    font-weight: 500;
+    text-shadow: 0 0 15px rgba(189,147,249,0.4);
   }
   h2 {
-    font-family: 'Cinzel', Georgia, serif;
     font-size: 2rem;
-    font-weight: 500;
+    font-weight: 400;
     color: #bd93f9;
-    text-shadow: 0 0 10px rgba(189,147,249,0.3);
-    letter-spacing: 0.05em;
-    position: relative;
-    display: inline-block;
-  }
-  h2::before, h2::after {
-    content: '•';
-    margin: 0 10px;
-    color: rgba(189,147,249,0.7);
-    font-size: 1.5rem;
-    text-shadow: 0 0 10px rgba(189,147,249,0.5);
   }
   hr {
     border: none;
     height: 1px;
-    background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="1" viewBox="0 0 200 1"><line x1="0" y1="0.5" x2="200" y2="0.5" stroke="%23bd93f9" stroke-width="1" stroke-dasharray="10,5" stroke-linecap="round"/></svg>');
+    background: linear-gradient(90deg, rgba(189,147,249,0) 0%, rgba(189,147,249,1) 50%, rgba(189,147,249,0) 100%);
     margin: 1.5rem auto;
     width: 60%;
   }
@@ -301,10 +225,7 @@ hide: true
 
 <div class="container">
   <div class="header">
-    <div class="name-container">
-      <div class="elder-border"></div>
-      <h1>Nikhil Narayan</h1>
-    </div>
+    <h1>Nikhil Narayan</h1>
     <hr>
     <h2>Welcome to MY Nighthawk page!</h2>
   </div>
