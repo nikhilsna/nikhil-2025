@@ -46,4 +46,5 @@ header_pages:
   - _notebooks/sfcmtng/
   - _notebooks/pasprj/
   - _notebooks/lstflt/
+  - _notebooks/sims/
   - README4YML.md
