@@ -21,6 +21,7 @@ header_pages:
   - navigation/about.md
   - navigation/journey.md
   - navigation/calculator.md
+  - navigation/tasklist.md
   - navigation/cookieclicker.md
   - navigation/snakegame.md
   - _notebooks/problems
