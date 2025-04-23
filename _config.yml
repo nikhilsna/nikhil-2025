@@ -49,4 +49,6 @@ header_pages:
   - _notebooks/lstflt/
   - _notebooks/simshw/
   - _notebooks/excred/
+  - _notebooks/bigO/
+  - _notebooks/styblg/
   - README4YML.md
