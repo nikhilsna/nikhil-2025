@@ -53,4 +53,6 @@ header_pages:
   - _notebooks/styblg/
   - _notebooks/21MC/
   - _notebooks/undpr/
+  - _notebooks/binary/
+  - _notebooks/mlog/
   - README4YML.md
