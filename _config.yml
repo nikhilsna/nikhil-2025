@@ -55,4 +55,6 @@ header_pages:
   - _notebooks/undpr/
   - _notebooks/binary/
   - _notebooks/mlog/
+  - _notebooks/po/
+  - _notebooks/ps/
   - README4YML.md
